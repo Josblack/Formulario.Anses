@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+    text-align: center;
+    
+}
+label{
+    margin-bottom: 10px;
+    font-size: large;
+}
+input{
+    margin-bottom: 10px;
+}
+select{
+    margin-bottom: 10px;
+}
+.contpadre{
+    background-color: beige;
+    border: solid;
+    border-radius: 20px;
+    width: 40%;
+    margin-left: 400px;
+    margin-right: 200px;
+}
